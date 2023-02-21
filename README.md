@@ -3,9 +3,8 @@
 Ini adalah simple Todo-App menggunakan Go-Lang dan ReactJS dengan arsitektur microservice yang menggunakan MySQL sebagai database.
 
 ### Colaborators:
- - Austin Nicholas Tham
- - Louie Llywton
-
+ - <a href="https://github.com/AustinNick"> Austin Nicholas Tham </a>
+ - <a href="https://github.com/louiellywton"> Louie Llywton </a>
 
 ### 📌Target:
  - Login & Register using JWT
