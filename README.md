@@ -11,3 +11,9 @@ Ini adalah simple Todo-App menggunakan Go-Lang dan ReactJS yang menggunakan MySQ
  - Auto Migration
  - Filter
  - CRUD
+
+# How to install
+## FrontEnd:
+ Go to "frontend" directory and use "npm install" on it
+
+## BackEnd
