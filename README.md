@@ -3,8 +3,8 @@
 Ini adalah simple Todo-App menggunakan Go-Lang dan ReactJS yang menggunakan MySQL sebagai database.
 
 ### Colaborators:
- - <a href="https://github.com/AustinNick"> Austin Nicholas Tham </a>
- - <a href="https://github.com/louiellywton"> Louie Llywton </a>
+ - [Austin Nicholas Tham](https://github.com/AustinNick)
+ - [Louie Llywton](https://github.com/louiellywton)
 
 ### 📌Target:
  - Login & Register using JWT
@@ -14,6 +14,9 @@ Ini adalah simple Todo-App menggunakan Go-Lang dan ReactJS yang menggunakan MySQ
 
 # How to install
 ## FrontEnd:
- Go to "frontend" directory and use "npm install" on it
+ Go to "frontend" directory and type this on command line:
+```bash
+ npm install
+```
 
 ## BackEnd
